@@ -76,14 +76,21 @@ export default {
           context: 'Neste vídeo estaremos mostrando a rotina de cadastro de exames',
           link: 'https://www.youtube/embed/-K2u8xB62pA',
           title: 'Cadastro Exames',
-          img: ''
+          img: 'https://cdn.pixabay.com/photo/2019/08/13/08/15/analysis-4402809_960_720.jpg'
         },
         {
           id: 7,
-          context: '',
-          link: '',
-          title: 'Cadastro Pessoas',
-          img: ''
+          context: 'Neste vídeo estaremos mostrando a rotina de cadastro de Pacotes de Serviço/Banho e Tosa',
+          link: 'https://www.youtube/embed/XZFQAoBeiAg',
+          title: 'Cadastro Pacotes de Serviço/Banho e Tosa',
+          img: 'https://cdn.pixabay.com/photo/2015/10/16/01/08/dog-990304_960_720.jpg'
+        },
+        {
+          id: 8,
+          context: 'Neste vídeo estaremos mostrando a rotina de cadastro de Pacotes de Serviço/Banho e Tosa',
+          link: 'https://www.youtube/embed/XZFQAoBeiAg',
+          title: 'Cadastro Pacotes de Serviço/Banho e Tosa',
+          img: 'https://cdn.pixabay.com/photo/2015/10/16/01/08/dog-990304_960_720.jpg'
         }
       ]
     }
