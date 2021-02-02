@@ -91,6 +91,13 @@ export default {
           link: 'https://www.youtube/embed/BYC8HKpsTuA',
           title: 'Cadastro e Configuração de Máquinas de Cartão',
           img: 'https://cdn.pixabay.com/photo/2021/01/17/11/34/payment-terminal-5924679_960_720.png'
+        },
+        {
+          id: 9,
+          context: 'Neste vídeo estaremos mostrando a rotina de cadastro de consultas',
+          link: 'https://www.youtube/embed/CfuQab6QhI8',
+          title: 'Cadastro de Consultas',
+          img: 'https://cdn.pixabay.com/photo/2018/06/09/17/37/doctor-3464798_960_720.jpg'
         }
       ]
     }
