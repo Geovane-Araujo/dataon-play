@@ -74,30 +74,37 @@ export default {
         {
           id: 6,
           context: 'Neste vídeo estaremos mostrando a rotina de cadastro de exames',
-          link: 'https://www.youtube/embed/-K2u8xB62pA',
+          link: 'https://www.youtube.com/embed/-K2u8xB62pA',
           title: 'Cadastro Exames',
           img: 'https://cdn.pixabay.com/photo/2019/08/13/08/15/analysis-4402809_960_720.jpg'
         },
         {
           id: 7,
           context: 'Neste vídeo estaremos mostrando a rotina de cadastro de Pacotes de Serviço/Banho e Tosa',
-          link: 'https://www.youtube/embed/XZFQAoBeiAg',
+          link: 'https://www.youtube.com/embed/XZFQAoBeiAg',
           title: 'Cadastro Pacotes de Serviço/Banho e Tosa',
           img: 'https://cdn.pixabay.com/photo/2015/10/16/01/08/dog-990304_960_720.jpg'
         },
         {
           id: 8,
           context: 'Neste vídeo estaremos mostrando a rotina de cadastro e configuração de Máquinas de Cartão',
-          link: 'https://www.youtube/embed/BYC8HKpsTuA',
+          link: 'https://www.youtube.com/embed/BYC8HKpsTuA',
           title: 'Cadastro e Configuração de Máquinas de Cartão',
           img: 'https://cdn.pixabay.com/photo/2021/01/17/11/34/payment-terminal-5924679_960_720.png'
         },
         {
           id: 9,
           context: 'Neste vídeo estaremos mostrando a rotina de cadastro de consultas',
-          link: 'https://www.youtube/embed/CfuQab6QhI8',
+          link: 'https://www.youtube.com/embed/CfuQab6QhI8',
           title: 'Cadastro de Consultas',
           img: 'https://cdn.pixabay.com/photo/2018/06/09/17/37/doctor-3464798_960_720.jpg'
+        },
+        {
+          id: 10,
+          context: 'Neste vídeo estaremos mostrando a rotina de cadastro de internações',
+          link: 'https://www.youtube.com/embed/4UFiiUUJVwQ',
+          title: 'Cadastro de Consultas',
+          img: 'https://cdn.pixabay.com/photo/2012/04/02/12/50/ambulance-24405_960_720.png'
         }
       ]
     }
