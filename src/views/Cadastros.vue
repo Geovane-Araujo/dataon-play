@@ -120,6 +120,13 @@ export default {
           title: 'Cadastro de Creche/Day Care Pet',
           img: 'https://cdn.pixabay.com/photo/2016/10/19/12/50/happy-1752901_960_720.jpg'
         }
+        {
+          id: 13,
+          context: 'Neste vídeo estaremos mostrando a rotina de cadastro de contas bancárias',
+          link: 'https://www.youtube.com/embed/c_C6Xs1Bs1Q',
+          title: 'Cadastro de Contas Bancárias',
+          img: 'https://cdn.pixabay.com/photo/2017/10/25/19/46/piggy-bank-2889046_960_720.jpg'
+        }
       ]
     }
   }
