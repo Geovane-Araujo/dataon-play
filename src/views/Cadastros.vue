@@ -87,10 +87,10 @@ export default {
         },
         {
           id: 8,
-          context: 'Neste vídeo estaremos mostrando a rotina de cadastro de Pacotes de Serviço/Banho e Tosa',
-          link: 'https://www.youtube/embed/XZFQAoBeiAg',
-          title: 'Cadastro Pacotes de Serviço/Banho e Tosa',
-          img: 'https://cdn.pixabay.com/photo/2015/10/16/01/08/dog-990304_960_720.jpg'
+          context: 'Neste vídeo estaremos mostrando a rotina de cadastro e configuração de Máquinas de Cartão',
+          link: 'https://www.youtube/embed/BYC8HKpsTuA',
+          title: 'Cadastro e Configuração de Máquinas de Cartão',
+          img: 'https://cdn.pixabay.com/photo/2021/01/17/11/34/payment-terminal-5924679_960_720.png'
         }
       ]
     }
