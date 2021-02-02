@@ -103,8 +103,15 @@ export default {
           id: 10,
           context: 'Neste vídeo estaremos mostrando a rotina de cadastro de internações',
           link: 'https://www.youtube.com/embed/4UFiiUUJVwQ',
-          title: 'Cadastro de Consultas',
+          title: 'Cadastro de Internações',
           img: 'https://cdn.pixabay.com/photo/2012/04/02/12/50/ambulance-24405_960_720.png'
+        },
+        {
+          id: 11,
+          context: 'Neste vídeo estaremos mostrando a rotina de cadastro taxi pet',
+          link: 'https://www.youtube.com/embed/yykc5RxFNiM',
+          title: 'Cadastro de Taxi Pet',
+          img: 'https://cdn.pixabay.com/photo/2016/11/21/14/20/automobile-1845650_960_720.jpg
         }
       ]
     }
