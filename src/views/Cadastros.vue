@@ -73,9 +73,9 @@ export default {
         },
         {
           id: 6,
-          context: '',
-          link: '',
-          title: 'Cadastro Pessoas',
+          context: 'Neste vídeo estaremos mostrando a rotina de cadastro de exames',
+          link: 'https://www.youtube/embed/-K2u8xB62pA',
+          title: 'Cadastro Exames',
           img: ''
         },
         {

@@ -36,6 +36,13 @@ export default {
         img: ''
       },
       cadastros: [
+        {
+          id: 1,
+          context: 'Neste vídeo estaremos mostrando a rotina de cadastro de clientes',
+          link: 'https://www.youtube.com/embed/Vhy439WBP9A',
+          title: 'Cadastro Clientes',
+          img: 'https://cdn.pixabay.com/photo/2016/02/07/21/03/computer-1185626_960_720.jpg'
+        }
       ]
     }
   }
