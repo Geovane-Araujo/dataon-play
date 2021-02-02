@@ -34,7 +34,8 @@ export default {
         link: '',
         title: '',
         img: ''
-      }
+      },
+      cadastros: [
       ]
     }
   }
