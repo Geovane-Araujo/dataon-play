@@ -53,7 +53,7 @@ export default {
         {
           id: 3,
           context: 'Neste vídeo estaremos mostrando a rotina de venda parcelada no crédito',
-          link: 'hhttps://www.youtube.com/embed/x213ToBtXAw',
+          link: 'https://www.youtube.com/embed/x213ToBtXAw',
           title: 'Venda Parcelada no Crédito',
           img: 'https://cdn.pixabay.com/photo/2020/03/02/19/27/banking-4896672_960_720.jpg'
         }
