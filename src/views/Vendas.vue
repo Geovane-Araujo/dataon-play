@@ -49,6 +49,13 @@ export default {
           link: 'https://www.youtube.com/embed/TCrDhz06qKQ',
           title: 'Venda de Produtos no PDV',
           img: 'https://cdn.pixabay.com/photo/2014/12/21/23/51/cash-register-576181_960_720.png'
+        },
+        {
+          id: 3,
+          context: 'Neste vídeo estaremos mostrando a rotina de venda parcelada no crédito',
+          link: 'hhttps://www.youtube.com/embed/x213ToBtXAw',
+          title: 'Venda Parcelada no Crédito',
+          img: 'https://cdn.pixabay.com/photo/2020/03/02/19/27/banking-4896672_960_720.jpg'
         }
       ]
     }
