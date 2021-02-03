@@ -36,6 +36,13 @@ export default {
         img: ''
       },
       cadastros: [
+        {
+          id: 1,
+          context: 'Neste vídeo estaremos mostrando a rotina de venda de serviços no PDV',
+          link: 'https://www.youtube.com/embed/9Kpo0kJ0mc8',
+          title: 'Venda de Serviços no PDV',
+          img: 'https://cdn.pixabay.com/photo/2014/12/21/23/51/cash-register-576181_960_720.png'
+        }
       ]
     }
   }
