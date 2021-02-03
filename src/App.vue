@@ -27,7 +27,7 @@
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   background-image: url('./assets/fundo.png');
-  background-size: cover;
+  background-repeat: repeat-y;
   position: relative;
   text-align: center;
   color: #2c3e50;
