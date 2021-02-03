@@ -42,6 +42,13 @@ export default {
           link: 'https://www.youtube.com/embed/VoJlw_i1yyM',
           title: 'Importação de XML Manual',
           img: 'https://cdn.pixabay.com/photo/2018/12/13/18/40/goods-carrier-3873469_960_720.png'
+        },
+        {
+          id: 2,
+          context: 'Neste vídeo estaremos mostrando a rotina de importação de notas diretamente da SEFAZ',
+          link: 'https://www.youtube.com/embed/HPu3SPlpJ6o',
+          title: 'Importação de XML direto da SEFAZ',
+          img: 'https://sistemas1.sefaz.ma.gov.br/arquivossite/imagens/arquivos/11450.png'
         }
       ]
     }
