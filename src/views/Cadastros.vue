@@ -58,11 +58,18 @@ export default {
           img: 'https://cdn.pixabay.com/photo/2021/01/17/11/34/payment-terminal-5924679_960_720.png'
         },
         {
-          id: 13,
+          id: 4,
           context: 'Neste vídeo estaremos mostrando a rotina de cadastro de contas bancárias',
           link: 'https://www.youtube.com/embed/c_C6Xs1Bs1Q',
           title: 'Cadastro de Contas Bancárias',
           img: 'https://cdn.pixabay.com/photo/2017/10/25/19/46/piggy-bank-2889046_960_720.jpg'
+        }
+        {
+          id: 5,
+          context: 'Neste vídeo estaremos mostrando a rotina de cadastro de produtos a granel',
+          link: 'https://www.youtube.com/embed/FLa9SQQ4jek',
+          title: 'Cadastro de Produtos a Granel',
+          img: 'hhttps://i.pinimg.com/originals/ca/3d/ae/ca3daeab2e104f435658be54b6ed023e.jpg'
         }
       ]
     }
