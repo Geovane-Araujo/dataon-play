@@ -55,7 +55,7 @@ export default {
           context: 'Neste vídeo estaremos mostrando a rotina de como gerar e quitar duplicatas',
           link: 'https://www.youtube.com/embed/9GZhlBWJBFo',
           title: 'Gerar e quitar duplicatas',
-          img: 'https://www.google.com/url?sa=i&url=https%3A%2F%2Falpinopolis.mg.gov.br%2Fcategory%2Ftransparencia%2Fdespesas%2F&psig=AOvVaw3xs9aopdAh1zgnbddZB86P&ust=1612442375050000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPi5v47eze4CFQAAAAAdAAAAABAE'
+          img: 'https://www.arceburgo.mg.gov.br/wp-content/uploads/2017/07/despesas.jpg'
         },
         {
           id: 4,

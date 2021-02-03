@@ -98,6 +98,13 @@ export default {
           link: 'https://www.youtube.com/embed/KQlTDTR9mFI',
           title: 'Cadastro de Creche/Day Care Pet',
           img: 'https://cdn.pixabay.com/photo/2016/10/19/12/50/happy-1752901_960_720.jpg'
+        },
+        {
+          id: 9,
+          context: 'Neste vídeo estaremos mostrando a rotina de faturamento através do atendimento',
+          link: 'https://www.youtube.com/embed/NiWrDu9_Ysk',
+          title: 'Faturando um Atendimento',
+          img: 'https://cdn.pixabay.com/photo/2016/10/19/12/50/happy-1752901_960_720.jpg'
         }
       ]
     }
