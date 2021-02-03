@@ -61,7 +61,7 @@ export default {
           id: 4,
           context: 'Neste vídeo estaremos mostrando o funcionamento da guia meu negócio',
           link: 'https://www.youtube.com/embed/L3M_Azu52-k',
-          title: 'Gerar e quitar duplicatas',
+          title: 'Meu Negócio',
           img: 'https://cdn.pixabay.com/photo/2016/11/03/11/57/accountant-1794122_960_720.png'
         }
       ]
