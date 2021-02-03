@@ -36,6 +36,13 @@ export default {
         img: ''
       },
       cadastros: [
+        {
+          id: 1,
+          context: 'Neste vídeo estaremos mostrando a rotina de abertura e fechamento de caixa',
+          link: 'https://www.youtube.com/embed/bwYOwGFr7Bw',
+          title: 'Abertura e Fechamento de Caixa',
+          img: 'https://cdn.pixabay.com/photo/2019/08/13/08/15/analysis-4402809_960_720.jpg'
+        }
       ]
     }
   }
