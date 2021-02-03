@@ -41,7 +41,7 @@ export default {
           context: 'Neste vídeo estaremos mostrando a rotina de abertura e fechamento de caixa',
           link: 'https://www.youtube.com/embed/bwYOwGFr7Bw',
           title: 'Abertura e Fechamento de Caixa',
-          img: 'https://cdn.pixabay.com/photo/2019/08/13/08/15/analysis-4402809_960_720.jpg'
+          img: 'https://cdn.pixabay.com/photo/2014/12/21/23/51/cash-register-576181_960_720.png'
         }
       ]
     }
