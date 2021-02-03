@@ -36,6 +36,20 @@ export default {
         img: ''
       },
       cadastros: [
+        {
+          id: 1,
+          context: 'Neste vídeo estaremos mostrando a rotina de gerar e receber duplicatas',
+          link: 'https://www.youtube.com/embed/6d20NTLiBc4',
+          title: 'Gerar e receber duplicatas',
+          img: 'https://cdn.pixabay.com/photo/2013/07/12/14/07/bag-147782_960_720.png'
+        },
+        {
+          id: 2,
+          context: 'Neste vídeo estaremos mostrando a rotina de como gerar e quitar duplicatas',
+          link: 'https://www.youtube.com/embed/9GZhlBWJBFo',
+          title: 'Gerar e quitar duplicatas',
+          img: 'https://www.google.com/url?sa=i&url=https%3A%2F%2Falpinopolis.mg.gov.br%2Fcategory%2Ftransparencia%2Fdespesas%2F&psig=AOvVaw3xs9aopdAh1zgnbddZB86P&ust=1612442375050000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPi5v47eze4CFQAAAAAdAAAAABAE'
+        }
       ]
     }
   }
