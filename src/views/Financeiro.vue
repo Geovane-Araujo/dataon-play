@@ -45,6 +45,13 @@ export default {
         },
         {
           id: 2,
+          context: 'Neste vídeo estaremos mostrando a rotina de receber e reparcelar duplicatas',
+          link: 'https://www.youtube.com/embed/Tv6OCnZN49E',
+          title: 'Receber e Reparcelar Duplicatas',
+          img: 'https://cdn.pixabay.com/photo/2013/07/12/14/07/bag-147782_960_720.png'
+        },
+        {
+          id: 3,
           context: 'Neste vídeo estaremos mostrando a rotina de como gerar e quitar duplicatas',
           link: 'https://www.youtube.com/embed/9GZhlBWJBFo',
           title: 'Gerar e quitar duplicatas',
