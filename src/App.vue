@@ -11,7 +11,7 @@
         <b-button to="/servicos" style="color:#ffffff;" variant="outline-dark"><img class="icons" src="./assets/servicos.png"/> Serviços</b-button>
         <b-button v-show="visible" to="/estoque" style="color:#ffffff;" variant="outline-dark"><img class="icons" src="./assets/estoque.png"/> Estoque</b-button>
         <b-button to="/financeiro" style="color:#ffffff;" variant="outline-dark"><img class="icons" src="./assets/financeiro.png"/> Financeiro</b-button>
-        <b-button v-show="visible"  to="/utilitarios" style="color:#ffffff;" variant="outline-dark"><img class="icons" src="./assets/utilitarios.png"/> Utilitários</b-button>
+        <b-button to="/utilitarios" style="color:#ffffff;" variant="outline-dark"><img class="icons" src="./assets/utilitarios.png"/> Utilitários</b-button>
         <b-button v-show="visible"  style="color:#ffffff;" variant="outline-dark">Minha DataOn</b-button>
       </b-button-group>
     </div>
