@@ -56,6 +56,13 @@ export default {
           link: 'https://www.youtube.com/embed/9GZhlBWJBFo',
           title: 'Gerar e quitar duplicatas',
           img: 'https://www.google.com/url?sa=i&url=https%3A%2F%2Falpinopolis.mg.gov.br%2Fcategory%2Ftransparencia%2Fdespesas%2F&psig=AOvVaw3xs9aopdAh1zgnbddZB86P&ust=1612442375050000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPi5v47eze4CFQAAAAAdAAAAABAE'
+        },
+        {
+          id: 4,
+          context: 'Neste vídeo estaremos mostrando o funcionamento da guia meu negócio',
+          link: 'https://www.youtube.com/embed/L3M_Azu52-k',
+          title: 'Gerar e quitar duplicatas',
+          img: 'https://cdn.pixabay.com/photo/2016/11/03/11/57/accountant-1794122_960_720.png'
         }
       ]
     }
