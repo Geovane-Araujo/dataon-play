@@ -42,6 +42,13 @@ export default {
           link: 'https://www.youtube.com/embed/bwYOwGFr7Bw',
           title: 'Abertura e Fechamento de Caixa',
           img: 'https://cdn.pixabay.com/photo/2014/12/21/23/51/cash-register-576181_960_720.png'
+        },
+        {
+          id: 2,
+          context: 'Neste vídeo estaremos mostrando a rotina de venda de produtos no PDV',
+          link: 'https://www.youtube.com/embed/TCrDhz06qKQ',
+          title: 'Venda de Produtos no PDV',
+          img: 'https://cdn.pixabay.com/photo/2014/12/21/23/51/cash-register-576181_960_720.png'
         }
       ]
     }
