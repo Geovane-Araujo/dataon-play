@@ -104,7 +104,7 @@ export default {
           context: 'Neste vídeo estaremos mostrando a rotina de faturamento através do atendimento',
           link: 'https://www.youtube.com/embed/NiWrDu9_Ysk',
           title: 'Faturando um Atendimento',
-          img: 'https://cdn.pixabay.com/photo/2016/10/19/12/50/happy-1752901_960_720.jpg'
+          img: 'https://cdn.pixabay.com/photo/2016/09/30/19/10/ecommerce-1706103_960_720.png'
         }
       ]
     }
