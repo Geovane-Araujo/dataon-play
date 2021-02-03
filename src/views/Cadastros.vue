@@ -69,7 +69,7 @@ export default {
           context: 'Neste vídeo estaremos mostrando a rotina de cadastro de produtos a granel',
           link: 'https://www.youtube.com/embed/FLa9SQQ4jek',
           title: 'Cadastro de Produtos a Granel',
-          img: 'hhttps://i.pinimg.com/originals/ca/3d/ae/ca3daeab2e104f435658be54b6ed023e.jpg'
+          img: 'https://i.pinimg.com/originals/ca/3d/ae/ca3daeab2e104f435658be54b6ed023e.jpg'
         }
       ]
     }
