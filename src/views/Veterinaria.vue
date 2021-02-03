@@ -105,6 +105,13 @@ export default {
           link: 'https://www.youtube.com/embed/NiWrDu9_Ysk',
           title: 'Faturando um Atendimento',
           img: 'https://cdn.pixabay.com/photo/2016/09/30/19/10/ecommerce-1706103_960_720.png'
+        },
+        {
+          id: 9,
+          context: 'Neste vídeo estaremos mostrando a rotina de agendar e executar um Pacote de Serviços ou Banho e Tosa',
+          link: 'https://www.youtube.com/embed/G9Gd5ldIZXc',
+          title: 'Agendar e Executar Banho e Tosa',
+          img: 'https://cdn.pixabay.com/photo/2016/07/16/08/53/sphynx-1521190_960_720.jpg'
         }
       ]
     }
