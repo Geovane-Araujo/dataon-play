@@ -6,6 +6,7 @@
         <b-button to="/" style="color:#ffffff;" variant="outline-dark"><img class="icons" src="./assets/cadastro.png"/> Início</b-button>
         <b-button to="/cadastros" style="color:#ffffff;" variant="outline-dark"><img class="icons" src="./assets/cadastro.png"/> Cadastros</b-button>
         <b-button to="/veterinaria" style="color:#ffffff;" variant="outline-dark"><img class="icons" src="./assets/veterinaria.png"/> Veterinária</b-button>
+        <b-button to="/petshop" style="color:#ffffff;" variant="outline-dark"><img class="icons" src="./assets/petshop.png"/> Petshop</b-button>
         <b-button to="/vendas" style="color:#ffffff;" variant="outline-dark"><img class="icons" src="./assets/vendas.png"/> Vendas</b-button>
         <b-button to="/compras" style="color:#ffffff;" variant="outline-dark"><img class="icons" src="./assets/compras.png"/> Compras</b-button>
         <b-button to="/servicos" style="color:#ffffff;" variant="outline-dark"><img class="icons" src="./assets/servicos.png"/> Serviços</b-button>
