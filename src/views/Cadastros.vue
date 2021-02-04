@@ -52,7 +52,7 @@ export default {
           link: 'https://www.youtube.com/embed/Vhy439WBP9A',
           title: 'Cadastro Clientes',
           dificudade: 2,
-          img: '.imagensprincipal/CadCli.jpg'
+          img: '..imagensprincipal/CadCli.jpg'
         },
         {
           id: 2,
