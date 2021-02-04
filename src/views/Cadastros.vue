@@ -51,8 +51,8 @@ export default {
           context: 'Neste vídeo estaremos mostrando a rotina de cadastro de clientes',
           link: 'https://www.youtube.com/embed/Vhy439WBP9A',
           title: 'Cadastro Clientes',
-          img: '../assets/animalzinho.png',
-          dificudade: 2
+          dificudade: 2,
+          img: '.assets/animalzinho.png'
         },
         {
           id: 2,
