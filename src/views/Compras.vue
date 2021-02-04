@@ -1,25 +1,27 @@
 <template>
   <div class="cadastros">
-    <div class="row" style="margin: 10px; justify-content:center;">
-      <div class="col-sm-3"  v-for="item in cadastros" :key="item.id">
-        <b-card
-        :title="item.title"
-        :img-src="item.img"
-        img-alt="Image"
-        img-top
-        tag="article"
-        style="max-width: 20rem;"
-        class="mb-3"
-      >
-        <b-card-text>
-          {{ item.context }}
-        </b-card-text>
-        <b-button v-b-modal.modal-center @click="obj=item" variant="outline-dark">Assistir</b-button>
-      </b-card>
-      </div>
+    <h3 style="text-align:left;margin-bottom:0px;margin-left:30px">Sequência Recomendada</h3>
+    <div class="cont">
+      <vue-horizontal-list :items="cadastros" :options="options">
+        <template v-slot:default="{ item }">
+          <div class="master">
+            <div class="image-container">
+              <button v-b-modal.modal-center @click="obj=item"><img class="img" :src="item.img"/></button>
+            </div>
+            <div class="subtitle">
+              <div>Sequência</div>
+              <div>{{ item.id + "/" + cadastros.length }}</div>
+            </div>
+            <h4 style="text-align:left;">{{ item.title }}</h4>
+            <p style="text-align:left;" >{{ item.context }}</p>
+            <h6 style="text-align:left;font-size: 10px" >Dificuldade</h6>
+            <b-form-rating class="stars" id="rating-sm" size="sm" color="#ff8800" v-model="item.dificudade" stars="5"></b-form-rating>
+          </div>
+        </template>
+      </vue-horizontal-list>
     </div>
     <b-modal id="modal-center" size="lg" centered :title="obj.title">
-      <iframe :src="obj.link" type="application/x-shockwave-flash" width="760" height="500"></iframe>
+      <iframe allowfullscreen="allowfullscreen" :src="obj.link" type="application/x-shockwave-flash" width="760" height="500"></iframe>
     </b-modal>
   </div>
 </template>
@@ -41,6 +43,7 @@ export default {
           context: 'Neste vídeo estaremos mostrando a rotina de importação de notas manualmente',
           link: 'https://www.youtube.com/embed/VoJlw_i1yyM',
           title: 'Importação de XML Manual',
+          dificudade: 2,
           img: 'https://cdn.pixabay.com/photo/2018/12/13/18/40/goods-carrier-3873469_960_720.png'
         },
         {
@@ -48,6 +51,7 @@ export default {
           context: 'Neste vídeo estaremos mostrando a rotina de importação de notas diretamente da SEFAZ',
           link: 'https://www.youtube.com/embed/HPu3SPlpJ6o',
           title: 'Importação de XML direto da SEFAZ',
+          dificudade: 2,
           img: 'https://sistemas1.sefaz.ma.gov.br/arquivossite/imagens/arquivos/11450.png'
         }
       ]
