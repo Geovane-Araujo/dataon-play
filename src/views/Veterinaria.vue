@@ -117,8 +117,8 @@ export default {
           title: 'Cadastro de Creche/Day Care Pet',
           dificudade: 2,
           img: 'https://cdn.pixabay.com/photo/2016/10/19/12/50/happy-1752901_960_720.jpg'
-        },
-       ]
+        }
+      ]
     }
   }
 }
