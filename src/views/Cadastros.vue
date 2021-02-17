@@ -65,7 +65,7 @@ export default {
         {
           id: 3,
           context: 'Neste vídeo estaremos mostrando a rotina de cadastro e configuração de Máquinas de Cartão',
-          link: 'https://www.youtube.com/embed/BYC8HKpsTuA',
+          link: 'https://www.youtube.com/embed/weULiUsECnQ',
           title: 'Máquinas de Cartão',
           dificudade: 2,
           img: 'https://cdn.pixabay.com/photo/2021/01/17/11/34/payment-terminal-5924679_960_720.png'
