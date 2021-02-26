@@ -52,7 +52,15 @@ export default {
           link: 'https://www.youtube.com/embed/0gduHTuRu1k',
           title: 'Automação - Fechamento Fiscal mensal',
           dificudade: 2,
-          img: 'https://pixabay.com/pt/photos/calend%C3%A1rio-data-tempo-de-m%C3%AAs-660670/'
+          img: 'https://cdn.pixabay.com/photo/2017/01/18/17/52/calendar-1990453_1280.jpg'
+        },
+        {
+          id: 2,
+          context: 'Neste vídeo estaremos mostrando a rotina para configurar e utilizar os modelos de documentos.',
+          link: 'https://www.youtube.com/embed/R9ot-HwaEt8',
+          title: 'Modelos Documentos',
+          dificudade: 2,
+          img: 'https://cdn.pixabay.com/photo/2016/11/22/19/24/archive-1850170_1280.jpg'
         }
       ]
     }
