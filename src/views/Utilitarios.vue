@@ -55,7 +55,7 @@ export default {
           img: 'https://cdn.pixabay.com/photo/2017/01/18/17/52/calendar-1990453_1280.jpg'
         },
         {
-          id: 2,
+          id: 3,
           context: 'Neste vídeo estaremos mostrando a rotina para configurar e utilizar os modelos de documentos.',
           link: 'https://www.youtube.com/embed/R9ot-HwaEt8',
           title: 'Modelos Documentos',
