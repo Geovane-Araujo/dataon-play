@@ -69,7 +69,7 @@ export default {
           title: 'Meu Negócio',
           dificudade: 2,
           img: 'https://cdn.pixabay.com/photo/2016/11/03/11/57/accountant-1794122_960_720.png'
-        }
+        },
         {
           id: 5,
           context: 'Neste vídeo estaremos mostrando o a rotina de estornar e excluir duplicatas no sistema DataOn Pet',
