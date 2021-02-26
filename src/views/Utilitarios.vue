@@ -45,6 +45,14 @@ export default {
           title: 'Modelos Whatsapp',
           dificudade: 2,
           img: 'https://cdn.pixabay.com/photo/2016/04/27/20/39/whatsapp-1357489_960_720.jpg'
+        },
+        {
+          id: 2,
+          context: 'Neste vídeo estaremos mostrando a rotina para configurar e gerar XML de fechamento fiscal mensal',
+          link: 'https://www.youtube.com/embed/0gduHTuRu1k',
+          title: 'Automação - Fechamento Fiscal mensal',
+          dificudade: 2,
+          img: 'https://pixabay.com/pt/photos/calend%C3%A1rio-data-tempo-de-m%C3%AAs-660670/'
         }
       ]
     }
