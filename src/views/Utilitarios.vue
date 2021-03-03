@@ -61,6 +61,14 @@ export default {
           title: 'Modelos Documentos',
           dificudade: 2,
           img: 'https://cdn.pixabay.com/photo/2016/11/22/19/24/archive-1850170_1280.jpg'
+        },
+        {
+          id: 4,
+          context: 'Neste vídeo estaremos mostrando a rotina para configurar e utilizar os modelos de SMS.',
+          link: 'https://www.youtube.com/embed/5Zt4pWVVBWw',
+          title: 'Modelos SMS',
+          dificudade: 2,
+          img: 'https://cdn.pixabay.com/photo/2016/11/22/19/24/archive-1850170_1280.jpg'
         }
       ]
     }
