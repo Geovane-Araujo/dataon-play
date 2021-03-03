@@ -61,6 +61,14 @@ export default {
           title: 'Venda Parcelada no Crédito',
           dificudade: 2,
           img: 'https://cdn.pixabay.com/photo/2020/03/02/19/27/banking-4896672_960_720.jpg'
+        },
+        {
+          id: 4,
+          context: 'Neste vídeo estaremos mostrando a rotina de como gerar crédito loja para o seu cliente',
+          link: 'https://www.youtube.com/embed/jJ3PuFTRSQQ',
+          title: 'Gerar Crédito Cliente',
+          dificudade: 2,
+          img: 'https://cdn.pixabay.com/photo/2020/03/02/19/27/banking-4896672_960_720.jpg'
         }
       ]
     }
