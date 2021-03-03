@@ -85,6 +85,14 @@ export default {
           title: 'Cadastro de Produtos a Granel',
           dificudade: 2,
           img: 'https://i.pinimg.com/originals/ca/3d/ae/ca3daeab2e104f435658be54b6ed023e.jpg'
+        },
+        {
+          id: 6,
+          context: 'Neste vídeo estaremos mostrando a rotina de cadastro de usuários',
+          link: 'https://www.youtube.com/embed/hz3yfpQ6rcg',
+          title: 'Cadastro de usuários',
+          dificudade: 2,
+          img: 'https://i.pinimg.com/originals/ca/3d/ae/ca3daeab2e104f435658be54b6ed023e.jpg'
         }
       ]
     }
