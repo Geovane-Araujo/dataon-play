@@ -44,7 +44,7 @@ export default {
           link: 'https://www.youtube.com/embed/bwYOwGFr7Bw',
           title: 'Abertura e Fechamento de Caixa',
           dificudade: 2,
-          img: 'https://cdn.pixabay.com/photo/2014/12/21/23/51/cash-register-576181_960_720.png'
+          img: 'https://videos.dataon.com.br/imagensprincipal/CaixaReg.jpg'
         },
         {
           id: 2,
@@ -52,7 +52,7 @@ export default {
           link: 'https://www.youtube.com/embed/TCrDhz06qKQ',
           title: 'Venda de Produtos no PDV',
           dificudade: 2,
-          img: 'https://cdn.pixabay.com/photo/2014/12/21/23/51/cash-register-576181_960_720.png'
+          img: 'https://videos.dataon.com.br/imagensprincipal/CaixaReg.jpg'
         },
         {
           id: 3,
@@ -60,7 +60,7 @@ export default {
           link: 'https://www.youtube.com/embed/x213ToBtXAw',
           title: 'Venda Parcelada no Crédito',
           dificudade: 2,
-          img: 'https://cdn.pixabay.com/photo/2020/03/02/19/27/banking-4896672_960_720.jpg'
+          img: 'https://videos.dataon.com.br/imagensprincipal/VendaParcelada.jpg'
         },
         {
           id: 4,
@@ -68,7 +68,7 @@ export default {
           link: 'https://www.youtube.com/embed/jJ3PuFTRSQQ',
           title: 'Gerar Crédito Cliente',
           dificudade: 2,
-          img: 'https://cdn.pixabay.com/photo/2020/03/02/19/27/banking-4896672_960_720.jpg'
+          img: 'https://videos.dataon.com.br/imagensprincipal/creditoloja.jpg'
         }
       ]
     }
