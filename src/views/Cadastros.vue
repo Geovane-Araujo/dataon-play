@@ -92,7 +92,7 @@ export default {
           link: 'https://www.youtube.com/embed/hz3yfpQ6rcg',
           title: 'Cadastro de usuários',
           dificudade: 2,
-          img: 'https://i.pinimg.com/originals/ca/3d/ae/ca3daeab2e104f435658be54b6ed023e.jpg'
+          img: 'https://videos.dataon.com.br/imagensprincipal/CadUsuario.jpg'
         }
       ]
     }
