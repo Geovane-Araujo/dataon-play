@@ -52,7 +52,7 @@ export default {
           link: 'https://www.youtube.com/embed/VoJlw_i1yyM',
           title: 'Importação de XML Manual',
           dificudade: 2,
-          img: 'https://cdn.pixabay.com/photo/2018/12/13/18/40/goods-carrier-3873469_960_720.png'
+          img: 'https://videos.dataon.com.br/imagensprincipal/ImpManual.jpg'
         },
         {
           id: 2,
