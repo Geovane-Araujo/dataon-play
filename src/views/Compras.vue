@@ -60,7 +60,7 @@ export default {
           link: 'https://www.youtube.com/embed/HPu3SPlpJ6o',
           title: 'Importação de XML direto da SEFAZ',
           dificudade: 2,
-          img: 'https://sistemas1.sefaz.ma.gov.br/arquivossite/imagens/arquivos/11450.png'
+          img: 'https://videos.dataon.com.br/imagensprincipal/rastreioXML.jpg'
         }
       ]
     }
