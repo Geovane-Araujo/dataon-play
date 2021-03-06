@@ -52,7 +52,7 @@ export default {
           link: 'https://www.youtube.com/embed/Tv6OCnZN49E',
           title: 'Receber e Reparcelar Duplicatas',
           dificudade: 2,
-          img: 'https://cdn.pixabay.com/photo/2013/07/12/14/07/bag-147782_960_720.png'
+          img: 'https://videos.dataon.com.br/imagensprincipal/receitas.jpg'
         },
         {
           id: 3,
