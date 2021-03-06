@@ -108,7 +108,7 @@ export default {
           link: 'https://www.youtube.com/embed/yykc5RxFNiM',
           title: 'Cadastro de Taxi Pet',
           dificudade: 2,
-          img: 'https://cdn.pixabay.com/photo/2016/11/21/14/20/automobile-1845650_960_720.jpg'
+          img: 'https://videos.dataon.com.br/imagensprincipal/CadTaxi.jpg'
         },
         {
           id: 9,
@@ -116,7 +116,7 @@ export default {
           link: 'https://www.youtube.com/embed/KQlTDTR9mFI',
           title: 'Cadastro de Creche/Day Care Pet',
           dificudade: 2,
-          img: 'https://cdn.pixabay.com/photo/2016/10/19/12/50/happy-1752901_960_720.jpg'
+          img: 'https://videos.dataon.com.br/imagensprincipal/CadCreche.jpg'
         }
       ]
     }
