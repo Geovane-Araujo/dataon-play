@@ -52,7 +52,7 @@ export default {
           link: 'https://www.youtube.com/embed/Vhy439WBP9A',
           title: 'Cadastro Clientes',
           dificudade: 2,
-          img: 'http://videos.dataon.com.br/imagensprincipal/CadCli.jpg'
+          img: 'https://videos.dataon.com.br/imagensprincipal/CadCli.jpg'
         },
         {
           id: 2,
@@ -60,7 +60,7 @@ export default {
           link: 'https://www.youtube.com/embed/_0lSYobz4qY',
           title: 'Cadastro de Produtos',
           dificudade: 2,
-          img: 'https://cdn.pixabay.com/photo/2017/03/01/10/03/businessman-2108029_960_720.jpg'
+          img: 'https://videos.dataon.com.br/imagensprincipal/CadProd.jpg'
         },
         {
           id: 3,
