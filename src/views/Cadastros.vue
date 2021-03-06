@@ -68,7 +68,7 @@ export default {
           link: 'https://www.youtube.com/embed/weULiUsECnQ',
           title: 'Máquinas de Cartão',
           dificudade: 2,
-          img: 'https://cdn.pixabay.com/photo/2021/01/17/11/34/payment-terminal-5924679_960_720.png'
+          img: 'https://videos.dataon.com.br/imagensprincipal/CadMaq.jpg'
         },
         {
           id: 4,
