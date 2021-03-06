@@ -44,7 +44,7 @@ export default {
           link: 'https://www.youtube.com/embed/6d20NTLiBc4',
           title: 'Gerar e receber duplicatas',
           dificudade: 2,
-          img: 'https://cdn.pixabay.com/photo/2013/07/12/14/07/bag-147782_960_720.png'
+          img: 'https://videos.dataon.com.br/imagensprincipal/despesas.jpg'
         },
         {
           id: 2,
