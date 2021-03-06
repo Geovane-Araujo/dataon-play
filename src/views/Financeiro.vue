@@ -76,7 +76,7 @@ export default {
           link: 'https://www.youtube.com/embed/txYiLRJOo3k',
           title: 'Estorno/Exclusão de Duplicatas',
           dificudade: 2,
-          img: 'https://cdn.pixabay.com/photo/2018/10/01/22/27/arrows-3717468_960_720.png'
+          img: 'https://videos.dataon.com.br/imagensprincipal/estornoexclusao.jpg'
         }
       ]
     }
