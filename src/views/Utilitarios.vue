@@ -44,7 +44,7 @@ export default {
           link: 'https://www.youtube.com/embed/7rX_S0qSo3E',
           title: 'Modelos Whatsapp',
           dificudade: 2,
-          img: 'https://cdn.pixabay.com/photo/2016/04/27/20/39/whatsapp-1357489_960_720.jpg'
+          img: 'https://videos.dataon.com.br/imagensprincipal/Whatsapp.jpg'
         },
         {
           id: 2,
