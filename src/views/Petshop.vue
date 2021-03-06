@@ -60,7 +60,7 @@ export default {
           link: 'https://www.youtube.com/embed/G9Gd5ldIZXc',
           title: 'Agendar e Executar Banho e Tosa',
           dificudade: 2,
-          img: 'https://cdn.pixabay.com/photo/2016/07/16/08/53/sphynx-1521190_960_720.jpg'
+          img: 'https://videos.dataon.com.br/imagensprincipal/AgBanho.jpg'
         }
       ]
     }
