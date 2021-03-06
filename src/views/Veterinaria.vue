@@ -52,7 +52,7 @@ export default {
           link: 'https://www.youtube.com/embed/R-Q50WPjRpc',
           title: 'Cadastro de Animais',
           dificudade: 2,
-          img: 'https://cdn.pixabay.com/photo/2017/11/14/13/06/kitty-2948404_960_720.jpg'
+          img: 'https://videos.dataon.com.br/imagensprincipal/CadAnimais.jpg'
         },
         {
           id: 2,
@@ -60,7 +60,7 @@ export default {
           link: 'https://www.youtube.com/embed/8I5tePqt2GU',
           title: 'Cadastro de Cirurgias',
           dificudade: 2,
-          img: 'https://cdn.pixabay.com/photo/2020/08/03/09/43/medical-5459650_960_720.png'
+          img: 'https://videos.dataon.com.br/imagensprincipal/CadCirurgias.jpg'
         },
         {
           id: 3,
@@ -68,7 +68,7 @@ export default {
           link: 'https://www.youtube.com/embed/wANcIV_CIVU',
           title: 'Cadastro de Vacinas',
           dificudade: 2,
-          img: 'https://cdn.pixabay.com/photo/2016/09/16/19/17/injection-1674900_960_720.png'
+          img: 'https://videos.dataon.com.br/imagensprincipal/CadVacinas.jpg'
         },
         {
           id: 4,
@@ -76,7 +76,7 @@ export default {
           link: 'https://www.youtube.com/embed/-K2u8xB62pA',
           title: 'Cadastro Exames',
           dificudade: 2,
-          img: 'https://cdn.pixabay.com/photo/2019/08/13/08/15/analysis-4402809_960_720.jpg'
+          img: 'https://videos.dataon.com.br/imagensprincipal/CadExames.jpg'
         },
         {
           id: 5,
@@ -84,7 +84,7 @@ export default {
           link: 'https://www.youtube.com/embed/XZFQAoBeiAg',
           title: 'Cadastro Pacotes de Serviço/Banho e Tosa',
           dificudade: 2,
-          img: 'https://cdn.pixabay.com/photo/2015/10/16/01/08/dog-990304_960_720.jpg'
+          img: 'https://videos.dataon.com.br/imagensprincipal/CadBanho.jpg'
         },
         {
           id: 6,
@@ -92,7 +92,7 @@ export default {
           link: 'https://www.youtube.com/embed/CfuQab6QhI8',
           title: 'Cadastro de Consultas',
           dificudade: 2,
-          img: 'https://cdn.pixabay.com/photo/2018/06/09/17/37/doctor-3464798_960_720.jpg'
+          img: 'https://videos.dataon.com.br/imagensprincipal/CadConsulta.jpg'
         },
         {
           id: 7,
@@ -100,7 +100,7 @@ export default {
           link: 'https://www.youtube.com/embed/4UFiiUUJVwQ',
           title: 'Cadastro de Internações',
           dificudade: 2,
-          img: 'https://cdn.pixabay.com/photo/2012/04/02/12/50/ambulance-24405_960_720.png'
+          img: 'https://videos.dataon.com.br/imagensprincipal/CadInternaçao.jpg'
         },
         {
           id: 8,
