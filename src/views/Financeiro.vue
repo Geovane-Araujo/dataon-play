@@ -68,7 +68,7 @@ export default {
           link: 'https://www.youtube.com/embed/L3M_Azu52-k',
           title: 'Meu Negócio',
           dificudade: 2,
-          img: 'https://cdn.pixabay.com/photo/2016/11/03/11/57/accountant-1794122_960_720.png'
+          img: 'https://videos.dataon.com.br/imagensprincipal/MeuNegocio.jpg'
         },
         {
           id: 5,
