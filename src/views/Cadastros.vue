@@ -76,7 +76,7 @@ export default {
           link: 'https://www.youtube.com/embed/c_C6Xs1Bs1Q',
           title: 'Cadastro de Contas Bancárias',
           dificudade: 2,
-          img: 'https://cdn.pixabay.com/photo/2017/10/25/19/46/piggy-bank-2889046_960_720.jpg'
+          img: 'https://videos.dataon.com.br/imagensprincipal/CadCB.jpg'
         },
         {
           id: 5,
