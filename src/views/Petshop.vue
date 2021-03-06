@@ -52,7 +52,7 @@ export default {
           link: 'https://www.youtube.com/embed/NiWrDu9_Ysk',
           title: 'Faturando um Atendimento',
           dificudade: 2,
-          img: 'https://cdn.pixabay.com/photo/2016/09/30/19/10/ecommerce-1706103_960_720.png'
+          img: 'https://videos.dataon.com.br/imagensprincipal/Fatura_Atendimento.jpg'
         },
         {
           id: 2,
