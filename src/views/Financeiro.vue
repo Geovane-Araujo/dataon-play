@@ -60,7 +60,7 @@ export default {
           link: 'https://www.youtube.com/embed/9GZhlBWJBFo',
           title: 'Gerar e quitar duplicatas',
           dificudade: 2,
-          img: 'https://www.arceburgo.mg.gov.br/wp-content/uploads/2017/07/despesas.jpg'
+          img: 'https://videos.dataon.com.br/imagensprincipal/despesas.jpg'
         },
         {
           id: 4,
