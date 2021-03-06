@@ -44,7 +44,7 @@ export default {
           link: 'https://www.youtube.com/embed/9Kpo0kJ0mc8',
           title: 'Venda de Serviços no PDV',
           dificudade: 2,
-          img: 'https://cdn.pixabay.com/photo/2014/12/21/23/51/cash-register-576181_960_720.png'
+          img: 'https://videos.dataon.com.br/imagensprincipal/CaixaReg.jpg'
         }
       ]
     }
