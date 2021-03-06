@@ -52,7 +52,7 @@ export default {
           link: 'https://www.youtube.com/embed/Vhy439WBP9A',
           title: 'Cadastro Clientes',
           dificudade: 2,
-          img: 'https://images.unsplash.com/photo-1517817748493-49ec54a32465?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80'
+          img: 'http://videos.dataon.com.br/imagensprincipal/CadCli.jpg'
         },
         {
           id: 2,
