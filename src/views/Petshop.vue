@@ -61,6 +61,14 @@ export default {
           title: 'Agendar e Executar Banho e Tosa',
           dificudade: 2,
           img: 'https://videos.dataon.com.br/imagensprincipal/AgBanho.jpg'
+        },
+        {
+          id: 3,
+          context: 'Neste vídeo estaremos mostrando a rotina de como agendar e executar vacinas no sistema DataOn Pet',
+          link: 'https://www.youtube.com/embed/cl01-VqmSJg',
+          title: 'Agendar e Executar Vacinas',
+          dificudade: 2,
+          img: 'https://videos.dataon.com.br/imagensprincipal/AgVacina.jpg'
         }
       ]
     }
