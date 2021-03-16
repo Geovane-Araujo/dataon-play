@@ -69,6 +69,14 @@ export default {
           title: 'Gerar Crédito Cliente',
           dificudade: 2,
           img: 'https://videos.dataon.com.br/imagensprincipal/creditoloja.jpg'
+        },
+        {
+          id: 5,
+          context: 'Neste vídeo estaremos mostrando a rotina de como gerar uma venda retroativa no sitema DataOn Pet',
+          link: 'https://www.youtube.com/embed/1R1v-l-gHeY',
+          title: 'Gerar Venda Retroativa',
+          dificudade: 4,
+          img: 'https://videos.dataon.com.br/imagensprincipal/vendaretro.jpg'
         }
       ]
     }
