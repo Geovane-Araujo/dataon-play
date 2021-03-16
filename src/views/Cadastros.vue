@@ -93,6 +93,14 @@ export default {
           title: 'Cadastro de usuários',
           dificudade: 2,
           img: 'https://videos.dataon.com.br/imagensprincipal/CadUsuario.jpg'
+        },
+        {
+          id: 7,
+          context: 'Neste vídeo estaremos mostrando a rotina de como cadastrar contas PIX',
+          link: 'https://www.youtube.com/embed/Tuy5709yYW8',
+          title: 'Cadastro de Contas PIXX',
+          dificudade: 1,
+          img: 'https://videos.dataon.com.br/imagensprincipal/contapix.jpg'
         }
       ]
     }
