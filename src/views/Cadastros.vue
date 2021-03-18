@@ -101,6 +101,14 @@ export default {
           title: 'Cadastro de Contas PIXX',
           dificudade: 1,
           img: 'https://videos.dataon.com.br/imagensprincipal/contapix.jpg'
+        },
+        {
+          id: 8,
+          context: 'Neste vídeo estaremos mostrando a rotina de como Copiarmos Permissões de Usuário',
+          link: 'https://www.youtube.com/embed/-3hoRzo2NLM',
+          title: 'Cadastro de Contas PIXX',
+          dificudade: 1,
+          img: 'https://videos.dataon.com.br/imagensprincipal/CopiaPermissoUsr.jpg'
         }
       ]
     }
