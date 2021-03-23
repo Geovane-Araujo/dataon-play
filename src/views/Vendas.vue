@@ -77,6 +77,14 @@ export default {
           title: 'Gerar Venda Retroativa',
           dificudade: 4,
           img: 'https://videos.dataon.com.br/imagensprincipal/vendaretro.jpg'
+        },
+        {
+          id: 6,
+          context: 'Neste vídeo estaremos mostrando a rotina de como configurar e gerar desconto no sitema DataOn Pet',
+          link: 'https://www.youtube.com/embed/khU7H5XTK98',
+          title: 'Configurar e Gerar Descontos',
+          dificudade: 1,
+          img: 'https://videos.dataon.com.br/imagensprincipal/Desconto.png'
         }
       ]
     }
