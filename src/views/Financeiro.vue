@@ -77,6 +77,14 @@ export default {
           title: 'Estorno/Exclusão de Duplicatas',
           dificudade: 2,
           img: 'https://videos.dataon.com.br/imagensprincipal/estornoexclusao.jpg'
+        },
+        {
+          id: 6,
+          context: 'Neste vídeo estaremos mostrando o a rotina de cadastrar, listar e gerar pontos do programa fidelidade',
+          link: 'https://www.youtube.com/embed/kJRy5YFg-Vw',
+          title: 'Programa Fidelidade',
+          dificudade: 2,
+          img: 'https://videos.dataon.com.br/imagensprincipal/programafidelidade.jpg'
         }
       ]
     }
