@@ -69,6 +69,14 @@ export default {
           title: 'Modelos SMS',
           dificudade: 2,
           img: 'https://videos.dataon.com.br/imagensprincipal/addsms.jpg'
+        },
+        {
+          id: 5,
+          context: 'Neste vídeo estaremos mostrando a rotina de como utilizar os atalhos no Sistema DataOn Pet para facilitar o seu dia-a-dia.',
+          link: 'https://www.youtube.com/embed/eZzzjBl8BTk',
+          title: 'Atalhos DataOn Pet',
+          dificudade: 2,
+          img: 'https://videos.dataon.com.br/imagensprincipal/atalhos.jpg'
         }
       ]
     }
