@@ -1,24 +1,49 @@
 <template>
   <div class="cadastros">
     <h3 style="text-align:left;margin-bottom:0px;margin-left:30px">Sequência Recomendada</h3>
-    <div class="cont">
-      <vue-horizontal-list :items="cadastros" :options="options">
-        <template v-slot:default="{ item }">
-          <div class="master">
-            <div class="image-container">
-              <button v-b-modal.modal-center @click="obj=item"><img class="img" :src="item.img"/></button>
-            </div>
-            <div class="subtitle">
-              <div>Sequência</div>
-              <div>{{ item.id + "/" + cadastros.length }}</div>
-            </div>
-            <h4 style="text-align:left;">{{ item.title }}</h4>
-            <p style="text-align:left;" >{{ item.context }}</p>
-            <h6 style="text-align:left;font-size: 10px" >Dificuldade</h6>
-            <b-form-rating class="stars" id="rating-sm" size="sm" color="#ff8800" v-model="item.dificudade" stars="5"></b-form-rating>
-          </div>
-        </template>
-      </vue-horizontal-list>
+    <div class="row">
+      <div class="col-sm-12">
+        <div class="cont">
+          <vue-horizontal-list :items="cadastros" :options="options">
+            <template v-slot:default="{ item }">
+              <div class="master">
+                <div class="image-container">
+                  <button v-b-modal.modal-center @click="obj=item"><img class="img" :src="item.img"/></button>
+                </div>
+                <div class="subtitle">
+                  <div>Sequência</div>
+                  <div>{{ item.id + "/" + cadastros.length }}</div>
+                </div>
+                <h4 style="text-align:left;">{{ item.title }}</h4>
+                <p style="text-align:left;" >{{ item.context }}</p>
+                <h6 style="text-align:left;font-size: 10px" >Dificuldade</h6>
+                <b-form-rating class="stars" id="rating-sm" size="sm" color="#ff8800" v-model="item.dificudade" stars="5"></b-form-rating>
+              </div>
+            </template>
+          </vue-horizontal-list>
+        </div>
+      </div>
+      <div class="col-sm-12" style="margin-top: 35px">
+        <div class="cont">
+          <vue-horizontal-list :items="cadastros1" :options="options">
+            <template v-slot:default="{ item }">
+              <div class="master">
+                <div class="image-container">
+                  <button v-b-modal.modal-center @click="obj=item"><img class="img" :src="item.img"/></button>
+                </div>
+                <div class="subtitle">
+                  <div>Sequência</div>
+                  <div>{{ item.id + "/" + cadastros.length }}</div>
+                </div>
+                <h4 style="text-align:left;">{{ item.title }}</h4>
+                <p style="text-align:left;" >{{ item.context }}</p>
+                <h6 style="text-align:left;font-size: 10px" >Dificuldade</h6>
+                <b-form-rating class="stars" id="rating-sm" size="sm" color="#ff8800" v-model="item.dificudade" stars="5"></b-form-rating>
+              </div>
+            </template>
+          </vue-horizontal-list>
+        </div>
+      </div>
     </div>
     <b-modal id="modal-center" size="lg" centered :title="obj.title">
       <iframe allowfullscreen="allowfullscreen" :src="obj.link" type="application/x-shockwave-flash" width="760" height="500"></iframe>
@@ -77,9 +102,11 @@ export default {
           title: 'Meu Negócio',
           dificudade: 2,
           img: 'https://videos.dataon.com.br/imagensprincipal/MeuNegocio.jpg'
-        },
+        }
+      ],
+      cadastros1: [
         {
-          id: 5,
+          id: 1,
           context: 'Neste vídeo estaremos mostrando o a rotina de estornar e excluir duplicatas no sistema DataOn Pet',
           link: 'https://www.youtube.com/embed/txYiLRJOo3k',
           title: 'Estorno/Exclusão de Duplicatas',
@@ -87,7 +114,7 @@ export default {
           img: 'https://videos.dataon.com.br/imagensprincipal/estornoexclusao.jpg'
         },
         {
-          id: 6,
+          id: 2,
           context: 'Neste vídeo estaremos mostrando o a rotina de cadastrar, listar e gerar pontos do programa fidelidade',
           link: 'https://www.youtube.com/embed/kJRy5YFg-Vw',
           title: 'Programa Fidelidade',
