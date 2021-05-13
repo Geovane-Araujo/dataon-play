@@ -124,7 +124,7 @@ export default {
         {
           id: 3,
           context: 'Neste vídeo estaremos mostrando o a rotina de como utilizar o comissionamento dentro do sistema DataOn Pet. Configurar e Gerar Comissões',
-          link: 'https://www.youtube.comembed/aerz4aEKG-s',
+          link: 'https://www.youtube.com/embed/aerz4aEKG-s',
           title: 'Comissões',
           dificudade: 2,
           img: 'https://videos.dataon.com.br/imagensprincipal/comissoes.jpg'
