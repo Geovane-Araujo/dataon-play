@@ -61,6 +61,14 @@ export default {
           title: 'Importação de XML direto da SEFAZ',
           dificudade: 2,
           img: 'https://videos.dataon.com.br/imagensprincipal/rastreioXML.jpg'
+        },
+        {
+          id: 3,
+          context: 'Neste vídeo estaremos mostrando a rotina de como Gerar Nota Devolução de Compras no sistema DataOn Pet.',
+          link: 'https://www.youtube.com/embed/JKumY_RZ3lM',
+          title: 'Notas Devolução de Compras',
+          dificudade: 2,
+          img: 'https://videos.dataon.com.br/imagensprincipal/DevolucaoVendas.jpg'
         }
       ]
     }
