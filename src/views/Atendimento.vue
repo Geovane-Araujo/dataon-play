@@ -69,6 +69,14 @@ export default {
           title: 'Agendar e Executar Vacinas',
           dificudade: 2,
           img: 'https://videos.dataon.com.br/imagensprincipal/AgVacina.jpg'
+        },
+        {
+          id: 4,
+          context: 'Neste vídeo estaremos mostrando a rotina de como agendar consultas no sistema DataOn Pet',
+          link: 'https://www.youtube.com/embed/skO6GscaPbI',
+          title: 'Agendar Consultas',
+          dificudade: 2,
+          img: 'https://videos.dataon.com.br/imagensprincipal/GerarConsulta.jpg'
         }
       ]
     }
