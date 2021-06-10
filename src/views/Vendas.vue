@@ -127,7 +127,7 @@ export default {
           link: 'https://www.youtube.com/embed/2WpDnnVA3Qk',
           title: 'Notas de Uso e Consumo/Descarte',
           dificudade: 1,
-          img: 'https://videos.dataon.com.br/imagensprincipal/DescarteUsoConsumo.png'
+          img: 'https://videos.dataon.com.br/imagensprincipal/DescarteUsoConsumo.jpg'
         },
         {
           id: 4,
@@ -135,7 +135,7 @@ export default {
           link: 'https://www.youtube.com/embed/7Y-UYQvz5RI',
           title: 'Notas Devolução de Vendas',
           dificudade: 1,
-          img: 'https://videos.dataon.com.br/imagensprincipal/DevolucaoVendas.png'
+          img: 'https://videos.dataon.com.br/imagensprincipal/DevolucaoVendas.jpg'
         }
       ]
     }
