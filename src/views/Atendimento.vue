@@ -104,7 +104,7 @@ export default {
           img: 'https://videos.dataon.com.br/imagensprincipal/GerarConsulta.jpg'
         }
       ],
-      cadastros2: [
+      cadastros1: [
         {
           id: 1,
           context: 'Neste vídeo estaremos mostrando a rotina como Executar Consultas no sistema DataOn Pet',
