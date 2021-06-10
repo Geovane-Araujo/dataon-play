@@ -68,7 +68,7 @@ export default {
           link: 'https://www.youtube.com/embed/JKumY_RZ3lM',
           title: 'Notas Devolução de Compras',
           dificudade: 2,
-          img: 'https://videos.dataon.com.br/imagensprincipal/DevolucaoVendas.jpg'
+          img: 'https://videos.dataon.com.br/imagensprincipal/DevolucaoCompras.jpg'
         }
       ]
     }
