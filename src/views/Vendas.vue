@@ -120,6 +120,22 @@ export default {
           title: 'Configurar e Gerar Descontos',
           dificudade: 1,
           img: 'https://videos.dataon.com.br/imagensprincipal/Desconto.png'
+        },
+        {
+          id: 3,
+          context: 'Neste vídeo estaremos mostrando a rotina de como Gerar uma nota de Uso e Consumo, Descarte ou Baixa de Estoque no sitema DataOn Pet',
+          link: 'https://www.youtube.com/embed/2WpDnnVA3Qk',
+          title: 'Notas de Uso e Consumo/Descarte',
+          dificudade: 1,
+          img: 'https://videos.dataon.com.br/imagensprincipal/DescarteUsoConsumo.png'
+        },
+        {
+          id: 4,
+          context: 'Neste vídeo estaremos mostrando a rotina de como gerar Nota Devolução de Vendas no sitema DataOn Pet',
+          link: 'https://www.youtube.com/embed/7Y-UYQvz5RI',
+          title: 'Notas Devolução de Vendas',
+          dificudade: 1,
+          img: 'https://videos.dataon.com.br/imagensprincipal/DevolucaoVendas.png'
         }
       ]
     }
