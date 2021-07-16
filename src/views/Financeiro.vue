@@ -128,6 +128,14 @@ export default {
           title: 'Comissões',
           dificudade: 2,
           img: 'https://videos.dataon.com.br/imagensprincipal/comissoes.jpg'
+        },
+        {
+          id: 4,
+          context: 'Neste vídeo estaremos mostrando o a rotina de como gerenciar os convênios gerados, dentro do sistema DataOn Pet. Configurar e Gerar Comissões',
+          link: 'https://www.youtube.com/embed/KvqD01R59ds',
+          title: 'Gerenciar Convênios',
+          dificudade: 2,
+          img: 'https://videos.dataon.com.br/imagensprincipal/convenio.jpg'
         }
       ]
     }
