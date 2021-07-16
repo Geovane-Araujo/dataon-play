@@ -69,6 +69,14 @@ export default {
           title: 'Notas Devolução de Compras',
           dificudade: 2,
           img: 'https://videos.dataon.com.br/imagensprincipal/DevolucaoCompras.jpg'
+        },
+        {
+          id: 4,
+          context: 'Neste vídeo estaremos mostrando a rotina de como Cadastrar uma nota de Compras/Entrada no sistema DataOn Pet.',
+          link: 'https://www.youtube.com/embed/WQ-BkTWPaVw',
+          title: 'Notas de Compra/Entrada',
+          dificudade: 2,
+          img: 'https://videos.dataon.com.br/imagensprincipal/NotaEntrada.jpg'
         }
       ]
     }
