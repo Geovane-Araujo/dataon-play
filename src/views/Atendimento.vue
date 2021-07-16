@@ -112,6 +112,14 @@ export default {
           title: 'Executando Consultas',
           dificudade: 2,
           img: 'https://videos.dataon.com.br/imagensprincipal/ExecutarConsulta.jpg'
+        },
+        {
+          id: 2,
+          context: 'Neste vídeo estaremos mostrando a rotina como Utilizar os Convênios cadastrados no sistema DataOn Pet',
+          link: 'https://www.youtube.com/embed/j1ppobM-d5o',
+          title: 'Aplicando Desconto Convênios',
+          dificudade: 2,
+          img: 'https://videos.dataon.com.br/imagensprincipal/convenio.jpg'
         }
       ]
     }
