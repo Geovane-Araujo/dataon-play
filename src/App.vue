@@ -38,7 +38,8 @@ export default {
 <style lang="scss">
 body{
     background-image: url('./assets/fundo.png');
-    background-repeat: repeat-y;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
@@ -63,7 +64,7 @@ body{
 
 .groupbuttons{
   width: 100%;
-  height: 39px;
+  height: "sm";
   margin-top: 20px;
   background-color: black;
 }
