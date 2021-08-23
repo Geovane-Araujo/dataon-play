@@ -176,6 +176,14 @@ export default {
           dificudade: 2,
           img: 'https://videos.dataon.com.br/imagensprincipal/Internamento.jpg'
         },
+        {
+          id: 3,
+          context: 'Neste vídeo estaremos mostrando a rotina como realizar alterações de Internamento no sistema DataOn Pet',
+          link: 'https://www.youtube.com/embed/M5mpTbcaHg0',
+          title: 'Alterações na Internação',
+          dificudade: 2,
+          img: 'https://videos.dataon.com.br/imagensprincipal/AlteracaoInternamento.jpg'
+        }
       ]
     }
   }
