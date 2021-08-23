@@ -120,6 +120,22 @@ export default {
           title: 'Aplicando Desconto Convênios',
           dificudade: 2,
           img: 'https://videos.dataon.com.br/imagensprincipal/convenio.jpg'
+        },
+        {
+          id: 3,
+          context: 'Neste vídeo estaremos mostrando a rotina como agendar Cirurgias no sistema DataOn Pet',
+          link: 'https://www.youtube.com/embed/8Ncc2sGyCOc',
+          title: 'Agendar Cirurgias',
+          dificudade: 2,
+          img: 'https://videos.dataon.com.br/imagensprincipal/AgendamentoCirurgias.jpg'
+        },
+        {
+          id: 3,
+          context: 'Neste vídeo estaremos mostrando a rotina como agendar Exames no sistema DataOn Pet',
+          link: 'https://www.youtube.com/embed/Gpy8HXBagnA',
+          title: 'Agendar Exames',
+          dificudade: 2,
+          img: 'https://videos.dataon.com.br/imagensprincipal/AgendamentoExames.jpg'
         }
       ]
     }
