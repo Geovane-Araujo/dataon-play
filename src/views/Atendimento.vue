@@ -162,6 +162,14 @@ export default {
       cadastros2: [
         {
           id: 1,
+          context: 'Neste vídeo estaremos mostrando a rotina como Adicionar Resultados de Exames no sistema DataOn Pet',
+          link: 'https://www.youtube.com/embed/gIX-CapVEgE',
+          title: 'Adicionar Resultado de Exame',
+          dificudade: 2,
+          img: 'https://videos.dataon.com.br/imagensprincipal/Exames.jpg'
+        },
+        {
+          id: 2,
           context: 'Neste vídeo estaremos mostrando a rotina como gerar Internamento no sistema DataOn Pet',
           link: 'https://www.youtube.com/embed/nGKkiapZiXk',
           title: 'Gerando Internação',
