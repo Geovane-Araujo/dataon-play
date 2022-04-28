@@ -1,24 +1,7 @@
-# dataon-play
+# DataOn Play
 
-## Project setup
-```
-npm install
-```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Projeto desenvolvido para empresa DataOn sistemas ao qual permitiu a abertura do código e manter no repositório
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Este projeto é um mini hub de tutorias em vídeo sobre o Sistema [DataOn - Pet](https://app.dataon.com.br/)
