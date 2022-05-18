@@ -167,6 +167,14 @@ export default {
           title: 'Cadastro de Convênios',
           dificudade: 1,
           img: 'https://videos.dataon.com.br/imagensprincipal/convenio.jpg'
+        },
+        {
+          id: 2,
+          context: 'Neste vídeo estaremos mostrando a rotina de Configuração para Assinatura Eletrônica no Sistema DataOn Pet',
+          link: 'https://youtube.com/embed/2MnXD-Tz5-I',
+          title: 'Assinatura Eletrônica',
+          dificudade: 1,
+          img: 'https://videos.dataon.com.br/imagensprincipal/convenio.jpg'
         }
       ]
     }
