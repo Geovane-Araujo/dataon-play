@@ -17,7 +17,7 @@
                 <h4 style="text-align:left;">{{ item.title }}</h4>
                 <p style="text-align:left;" >{{ item.context }}</p>
                 <h6 style="text-align:left;font-size: 10px" >Dificuldade</h6>
-                <b-form-rating class="stars" id="rating-sm" size="sm" color="#ff8800" v-model="item.dificudade" stars="5"></b-form-rating>
+                <b-form-rating class="stars" id="rating-sm" size="sm" color="#ff8800" v-model="item.dificudade" stars="5" readonly></b-form-rating>
               </div>
             </template>
           </vue-horizontal-list>
@@ -38,7 +38,7 @@
                 <h4 style="text-align:left;">{{ item.title }}</h4>
                 <p style="text-align:left;" >{{ item.context }}</p>
                 <h6 style="text-align:left;font-size: 10px" >Dificuldade</h6>
-                <b-form-rating class="stars" id="rating-sm" size="sm" color="#ff8800" v-model="item.dificudade" stars="5"></b-form-rating>
+                <b-form-rating class="stars" id="rating-sm" size="sm" color="#ff8800" v-model="item.dificudade" stars="5" readonly></b-form-rating>
               </div>
             </template>
           </vue-horizontal-list>
@@ -59,7 +59,7 @@
                 <h4 style="text-align:left;">{{ item.title }}</h4>
                 <p style="text-align:left;" >{{ item.context }}</p>
                 <h6 style="text-align:left;font-size: 10px" >Dificuldade</h6>
-                <b-form-rating class="stars" id="rating-sm" size="sm" color="#ff8800" v-model="item.dificudade" stars="5"></b-form-rating>
+                <b-form-rating class="stars" id="rating-sm" size="sm" color="#ff8800" v-model="item.dificudade" stars="5" readoly></b-form-rating>
               </div>
             </template>
           </vue-horizontal-list>

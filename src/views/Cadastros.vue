@@ -17,7 +17,7 @@
                 <h4 style="text-align:left;">{{ item.title }}</h4>
                 <p style="text-align:left;" >{{ item.context }}</p>
                 <h6 style="text-align:left;font-size: 10px" >Dificuldade</h6>
-                <b-form-rating class="stars" id="rating-sm" size="sm" color="#ff8800" v-model="item.dificudade" stars="5"></b-form-rating>
+                <b-form-rating class="stars" id="rating-sm" size="sm" color="#ff8800" v-model="item.dificudade" stars="5" readonly></b-form-rating>
               </div>
             </template>
           </vue-horizontal-list>
@@ -38,7 +38,7 @@
                 <h4 style="text-align:left;">{{ item.title }}</h4>
                 <p style="text-align:left;" >{{ item.context }}</p>
                 <h6 style="text-align:left;font-size: 10px" >Dificuldade</h6>
-                <b-form-rating class="stars" id="rating-sm" size="sm" color="#ff8800" v-model="item.dificudade" stars="5"></b-form-rating>
+                <b-form-rating class="stars" id="rating-sm" size="sm" color="#ff8800" v-model="item.dificudade"  stars="5" readonly></b-form-rating>
               </div>
             </template>
           </vue-horizontal-list>
@@ -59,7 +59,7 @@
                 <h4 style="text-align:left;">{{ item.title }}</h4>
                 <p style="text-align:left;" >{{ item.context }}</p>
                 <h6 style="text-align:left;font-size: 10px" >Dificuldade</h6>
-                <b-form-rating class="stars" id="rating-sm" size="sm" color="#ff8800" v-model="item.dificudade" stars="5"></b-form-rating>
+                <b-form-rating class="stars" id="rating-sm" size="sm" color="#ff8800" v-model="item.dificudade" stars="5" readonly></b-form-rating>
               </div>
             </template>
           </vue-horizontal-list>
@@ -97,7 +97,7 @@ export default {
           context: 'Neste vídeo estaremos mostrando a rotina de cadastro de clientes',
           link: 'https://www.youtube.com/embed/Vhy439WBP9A',
           title: 'Cadastro Clientes',
-          dificudade: 2,
+          dificudade: 1,
           img: 'https://videos.dataon.com.br/imagensprincipal/CadCli.jpg'
         },
         {
@@ -105,7 +105,7 @@ export default {
           context: 'Neste vídeo estaremos mostrando a rotina de cadastro de Produtos',
           link: 'https://www.youtube.com/embed/_0lSYobz4qY',
           title: 'Cadastro de Produtos',
-          dificudade: 2,
+          dificudade: 3,
           img: 'https://videos.dataon.com.br/imagensprincipal/CadProd.jpg'
         },
         {
@@ -113,7 +113,7 @@ export default {
           context: 'Neste vídeo estaremos mostrando a rotina de cadastro e configuração de Máquinas de Cartão',
           link: 'https://www.youtube.com/embed/weULiUsECnQ',
           title: 'Máquinas de Cartão',
-          dificudade: 2,
+          dificudade: 3,
           img: 'https://videos.dataon.com.br/imagensprincipal/CadMaq.jpg'
         },
         {
@@ -131,7 +131,7 @@ export default {
           context: 'Neste vídeo estaremos mostrando a rotina de cadastro de produtos a granel',
           link: 'https://www.youtube.com/embed/FLa9SQQ4jek',
           title: 'Cadastro de Produtos a Granel',
-          dificudade: 2,
+          dificudade: 3,
           img: 'https://videos.dataon.com.br/imagensprincipal/CadGranel.jpg'
         },
         {
@@ -139,7 +139,7 @@ export default {
           context: 'Neste vídeo estaremos mostrando a rotina de cadastro de usuários',
           link: 'https://www.youtube.com/embed/hz3yfpQ6rcg',
           title: 'Cadastro de usuários',
-          dificudade: 2,
+          dificudade: 1,
           img: 'https://videos.dataon.com.br/imagensprincipal/CadUsuario.jpg'
         },
         {
@@ -165,14 +165,6 @@ export default {
           context: 'Neste vídeo estaremos mostrando a rotina de cadastro de Convênios no Sistema DataOn Pet',
           link: 'https://www.youtube.com/embed/k2LxAXcCcjk',
           title: 'Cadastro de Convênios',
-          dificudade: 1,
-          img: 'https://videos.dataon.com.br/imagensprincipal/convenio.jpg'
-        },
-        {
-          id: 2,
-          context: 'Neste vídeo estaremos mostrando a rotina de Configuração para Assinatura Eletrônica no Sistema DataOn Pet',
-          link: 'https://youtube.com/embed/2MnXD-Tz5-I',
-          title: 'Assinatura Eletrônica',
           dificudade: 1,
           img: 'https://videos.dataon.com.br/imagensprincipal/convenio.jpg'
         }

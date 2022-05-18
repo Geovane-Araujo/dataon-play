@@ -17,7 +17,7 @@
                 <h4 style="text-align:left;">{{ item.title }}</h4>
                 <p style="text-align:left;" >{{ item.context }}</p>
                 <h6 style="text-align:left;font-size: 10px" >Dificuldade</h6>
-                <b-form-rating class="stars" id="rating-sm" size="sm" color="#ff8800" v-model="item.dificudade" stars="5"></b-form-rating>
+                <b-form-rating class="stars" id="rating-sm" size="sm" color="#ff8800" v-model="item.dificudade" stars="5" readonly></b-form-rating>
               </div>
             </template>
           </vue-horizontal-list>
@@ -38,7 +38,7 @@
                 <h4 style="text-align:left;">{{ item.title }}</h4>
                 <p style="text-align:left;" >{{ item.context }}</p>
                 <h6 style="text-align:left;font-size: 10px" >Dificuldade</h6>
-                <b-form-rating class="stars" id="rating-sm" size="sm" color="#ff8800" v-model="item.dificudade" stars="5"></b-form-rating>
+                <b-form-rating class="stars" id="rating-sm" size="sm" color="#ff8800" v-model="item.dificudade" stars="5" readonly></b-form-rating>
               </div>
             </template>
           </vue-horizontal-list>
@@ -59,7 +59,7 @@
                 <h4 style="text-align:left;">{{ item.title }}</h4>
                 <p style="text-align:left;" >{{ item.context }}</p>
                 <h6 style="text-align:left;font-size: 10px" >Dificuldade</h6>
-                <b-form-rating class="stars" id="rating-sm" size="sm" color="#ff8800" v-model="item.dificudade" stars="5"></b-form-rating>
+                <b-form-rating class="stars" id="rating-sm" size="sm" color="#ff8800" v-model="item.dificudade" stars="5" readonly></b-form-rating>
               </div>
             </template>
           </vue-horizontal-list>
@@ -97,7 +97,7 @@ export default {
           context: 'Neste vídeo estaremos mostrando a rotina de faturamento através do atendimento',
           link: 'https://www.youtube.com/embed/NiWrDu9_Ysk',
           title: 'Faturando um Atendimento',
-          dificudade: 2,
+          dificudade: 1,
           img: 'https://videos.dataon.com.br/imagensprincipal/Fatura_Atendimento.jpg'
         },
         {
@@ -105,7 +105,7 @@ export default {
           context: 'Neste vídeo estaremos mostrando a rotina de agendar e executar um Pacote de Serviços ou Banho e Tosa',
           link: 'https://www.youtube.com/embed/G9Gd5ldIZXc',
           title: 'Agendar e Executar Banho e Tosa',
-          dificudade: 2,
+          dificudade: 3,
           img: 'https://videos.dataon.com.br/imagensprincipal/AgBanho.jpg'
         },
         {
@@ -113,7 +113,7 @@ export default {
           context: 'Neste vídeo estaremos mostrando a rotina de como agendar e executar vacinas no sistema DataOn Pet',
           link: 'https://www.youtube.com/embed/cl01-VqmSJg',
           title: 'Agendar e Executar Vacinas',
-          dificudade: 2,
+          dificudade: 1,
           img: 'https://videos.dataon.com.br/imagensprincipal/AgVacina.jpg'
         },
         {
@@ -131,7 +131,7 @@ export default {
           context: 'Neste vídeo estaremos mostrando a rotina como Executar Consultas no sistema DataOn Pet',
           link: 'https://www.youtube.com/embed/FYDoDOQzavM',
           title: 'Executando Consultas',
-          dificudade: 2,
+          dificudade: 3,
           img: 'https://videos.dataon.com.br/imagensprincipal/ExecutarConsulta.jpg'
         },
         {
@@ -139,7 +139,7 @@ export default {
           context: 'Neste vídeo estaremos mostrando a rotina como Utilizar os Convênios cadastrados no sistema DataOn Pet',
           link: 'https://www.youtube.com/embed/j1ppobM-d5o',
           title: 'Aplicando Desconto Convênios',
-          dificudade: 2,
+          dificudade: 1,
           img: 'https://videos.dataon.com.br/imagensprincipal/convenio.jpg'
         },
         {
@@ -147,7 +147,7 @@ export default {
           context: 'Neste vídeo estaremos mostrando a rotina como agendar Cirurgias no sistema DataOn Pet',
           link: 'https://www.youtube.com/embed/8Ncc2sGyCOc',
           title: 'Agendar Cirurgias',
-          dificudade: 2,
+          dificudade: 1,
           img: 'https://videos.dataon.com.br/imagensprincipal/AgendamentoCirurgias.jpg'
         },
         {
@@ -165,7 +165,7 @@ export default {
           context: 'Neste vídeo estaremos mostrando a rotina como Adicionar Resultados de Exames no sistema DataOn Pet',
           link: 'https://www.youtube.com/embed/gIX-CapVEgE',
           title: 'Adicionar Resultado de Exame',
-          dificudade: 2,
+          dificudade: 3,
           img: 'https://videos.dataon.com.br/imagensprincipal/Exames.jpg'
         },
         {

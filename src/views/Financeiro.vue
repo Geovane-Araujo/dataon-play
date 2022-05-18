@@ -17,7 +17,7 @@
                 <h4 style="text-align:left;">{{ item.title }}</h4>
                 <p style="text-align:left;" >{{ item.context }}</p>
                 <h6 style="text-align:left;font-size: 10px" >Dificuldade</h6>
-                <b-form-rating class="stars" id="rating-sm" size="sm" color="#ff8800" v-model="item.dificudade" stars="5"></b-form-rating>
+                <b-form-rating class="stars" id="rating-sm" size="sm" color="#ff8800" v-model="item.dificudade" stars="5" readonly></b-form-rating>
               </div>
             </template>
           </vue-horizontal-list>
@@ -38,7 +38,7 @@
                 <h4 style="text-align:left;">{{ item.title }}</h4>
                 <p style="text-align:left;" >{{ item.context }}</p>
                 <h6 style="text-align:left;font-size: 10px" >Dificuldade</h6>
-                <b-form-rating class="stars" id="rating-sm" size="sm" color="#ff8800" v-model="item.dificudade" stars="5"></b-form-rating>
+                <b-form-rating class="stars" id="rating-sm" size="sm" color="#ff8800" v-model="item.dificudade" stars="5" readonly></b-form-rating>
               </div>
             </template>
           </vue-horizontal-list>
@@ -76,7 +76,7 @@ export default {
           context: 'Neste vídeo estaremos mostrando a rotina de gerar e receber duplicatas',
           link: 'https://www.youtube.com/embed/6d20NTLiBc4',
           title: 'Gerar e receber duplicatas',
-          dificudade: 2,
+          dificudade: 1,
           img: 'https://videos.dataon.com.br/imagensprincipal/receitas.jpg'
         },
         {
@@ -84,7 +84,7 @@ export default {
           context: 'Neste vídeo estaremos mostrando a rotina de receber e reparcelar duplicatas',
           link: 'https://www.youtube.com/embed/Tv6OCnZN49E',
           title: 'Receber e Reparcelar Duplicatas',
-          dificudade: 2,
+          dificudade: 1,
           img: 'https://videos.dataon.com.br/imagensprincipal/receitas.jpg'
         },
         {
@@ -100,7 +100,7 @@ export default {
           context: 'Neste vídeo estaremos mostrando o funcionamento da guia meu negócio',
           link: 'https://www.youtube.com/embed/L3M_Azu52-k',
           title: 'Meu Negócio',
-          dificudade: 2,
+          dificudade: 3,
           img: 'https://videos.dataon.com.br/imagensprincipal/MeuNegocio.jpg'
         }
       ],
@@ -118,7 +118,7 @@ export default {
           context: 'Neste vídeo estaremos mostrando o a rotina de cadastrar, listar e gerar pontos do programa fidelidade',
           link: 'https://www.youtube.com/embed/kJRy5YFg-Vw',
           title: 'Programa Fidelidade',
-          dificudade: 2,
+          dificudade: 3,
           img: 'https://videos.dataon.com.br/imagensprincipal/programafidelidade.jpg'
         },
         {
@@ -126,7 +126,7 @@ export default {
           context: 'Neste vídeo estaremos mostrando o a rotina de como utilizar o comissionamento dentro do sistema DataOn Pet. Configurar e Gerar Comissões',
           link: 'https://www.youtube.com/embed/aerz4aEKG-s',
           title: 'Comissões',
-          dificudade: 2,
+          dificudade: 3,
           img: 'https://videos.dataon.com.br/imagensprincipal/comissoes.jpg'
         },
         {
@@ -134,7 +134,7 @@ export default {
           context: 'Neste vídeo estaremos mostrando o a rotina de como gerenciar os convênios gerados, dentro do sistema DataOn Pet. Configurar e Gerar Comissões',
           link: 'https://www.youtube.com/embed/KvqD01R59ds',
           title: 'Gerenciar Convênios',
-          dificudade: 2,
+          dificudade: 1,
           img: 'https://videos.dataon.com.br/imagensprincipal/convenio.jpg'
         }
       ]

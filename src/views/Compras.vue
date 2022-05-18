@@ -15,7 +15,7 @@
             <h4 style="text-align:left;">{{ item.title }}</h4>
             <p style="text-align:left;" >{{ item.context }}</p>
             <h6 style="text-align:left;font-size: 10px" >Dificuldade</h6>
-            <b-form-rating class="stars" id="rating-sm" size="sm" color="#ff8800" v-model="item.dificudade" stars="5"></b-form-rating>
+            <b-form-rating class="stars" id="rating-sm" size="sm" color="#ff8800" v-model="item.dificudade" stars="5" readonly></b-form-rating>
           </div>
         </template>
       </vue-horizontal-list>
@@ -35,7 +35,7 @@
                 <h4 style="text-align:left;">{{ item.title }}</h4>
                 <p style="text-align:left;" >{{ item.context }}</p>
                 <h6 style="text-align:left;font-size: 10px" >Dificuldade</h6>
-                <b-form-rating class="stars" id="rating-sm" size="sm" color="#ff8800" v-model="item.dificudade" stars="5"></b-form-rating>
+                <b-form-rating class="stars" id="rating-sm" size="sm" color="#ff8800" v-model="item.dificudade" stars="5" readonly></b-form-rating>
               </div>
             </template>
           </vue-horizontal-list>
@@ -72,7 +72,7 @@ export default {
           context: 'Neste vídeo estaremos mostrando a rotina de importação de notas manualmente',
           link: 'https://www.youtube.com/embed/VoJlw_i1yyM',
           title: 'Importação de XML Manual',
-          dificudade: 2,
+          dificudade: 4,
           img: 'https://videos.dataon.com.br/imagensprincipal/ImpManual.jpg'
         },
         {
@@ -88,7 +88,7 @@ export default {
           context: 'Neste vídeo estaremos mostrando a rotina de como Gerar Nota Devolução de Compras no sistema DataOn Pet.',
           link: 'https://www.youtube.com/embed/JKumY_RZ3lM',
           title: 'Notas Devolução de Compras',
-          dificudade: 2,
+          dificudade: 3,
           img: 'https://videos.dataon.com.br/imagensprincipal/DevolucaoCompras.jpg'
         },
         {
@@ -106,7 +106,7 @@ export default {
           context: 'Neste vídeo estaremos mostrando a rotina de Requisição/Cotação e Ordem de Compra',
           link: 'https://www.youtube.com/embed/Uisdu8Y9764',
           title: 'Requisição/Cotação e Ordem de Compra',
-          dificudade: 2,
+          dificudade: 4,
           img: 'https://videos.dataon.com.br/imagensprincipal/OrdemCompra.jpeg'
         }
       ]

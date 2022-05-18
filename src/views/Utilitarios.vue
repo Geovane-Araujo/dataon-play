@@ -17,7 +17,7 @@
                 <h4 style="text-align:left;">{{ item.title }}</h4>
                 <p style="text-align:left;" >{{ item.context }}</p>
                 <h6 style="text-align:left;font-size: 10px" >Dificuldade</h6>
-                <b-form-rating class="stars" id="rating-sm" size="sm" color="#ff8800" v-model="item.dificudade" stars="5"></b-form-rating>
+                <b-form-rating class="stars" id="rating-sm" size="sm" color="#ff8800" v-model="item.dificudade" stars="5" readonly></b-form-rating>
               </div>
             </template>
           </vue-horizontal-list>
@@ -38,7 +38,7 @@
                 <h4 style="text-align:left;">{{ item.title }}</h4>
                 <p style="text-align:left;" >{{ item.context }}</p>
                 <h6 style="text-align:left;font-size: 10px" >Dificuldade</h6>
-                <b-form-rating class="stars" id="rating-sm" size="sm" color="#ff8800" v-model="item.dificudade" stars="5"></b-form-rating>
+                <b-form-rating class="stars" id="rating-sm" size="sm" color="#ff8800" v-model="item.dificudade" stars="5" readonly></b-form-rating>
               </div>
             </template>
           </vue-horizontal-list>
@@ -84,7 +84,7 @@ export default {
           context: 'Neste vídeo estaremos mostrando a rotina para configurar e gerar XML de fechamento fiscal mensal',
           link: 'https://www.youtube.com/embed/0gduHTuRu1k',
           title: 'Automação - Fechamento Fiscal mensal',
-          dificudade: 2,
+          dificudade: 1,
           img: 'https://videos.dataon.com.br/imagensprincipal/fechamentofiscal.jpg'
         },
         {
@@ -110,7 +110,7 @@ export default {
           context: 'Neste vídeo estaremos mostrando a rotina de como utilizar os atalhos no Sistema DataOn Pet para facilitar o seu dia-a-dia.',
           link: 'https://www.youtube.com/embed/eZzzjBl8BTk',
           title: 'Atalhos DataOn Pet',
-          dificudade: 2,
+          dificudade: 1,
           img: 'https://videos.dataon.com.br/imagensprincipal/atalhos.jpg'
         },
         {
@@ -118,7 +118,7 @@ export default {
           context: 'Neste vídeo estaremos mostrando a rotina de para configurar  o envio de e-mails utilizando GMail.',
           link: 'https://www.youtube.com/embed/Ronh-_-3NbU',
           title: 'Configuração GMail',
-          dificudade: 2,
+          dificudade: 3,
           img: 'https://videos.dataon.com.br/imagensprincipal/ConfigGmail.jpeg'
         },
         {
@@ -126,7 +126,7 @@ export default {
           context: 'Neste vídeo estaremos mostrando a rotina de configuração e utilização da Integração com Whatsapp.',
           link: 'https://www.youtube.com/embed/T3GKSBcL6Zo',
           title: 'Integração Whatsapp',
-          dificudade: 2,
+          dificudade: 3,
           img: 'https://videos.dataon.com.br/imagensprincipal/WhatsInteg.jpeg'
         },
         {
@@ -134,7 +134,7 @@ export default {
           context: 'Neste vídeo estaremos mostrando o funcionamento e a Validade da Assinatura Eletrônica no Sistema DataOn Pet.',
           link: 'https://www.youtube.com/embed/2MnXD-Tz5-I',
           title: 'Assinatura Eletrônica',
-          dificudade: 2,
+          dificudade: 4,
           img: 'https://videos.dataon.com.br/imagensprincipal/AssEletronica.jpeg'
         }
       ]
