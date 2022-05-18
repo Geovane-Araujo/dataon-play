@@ -112,6 +112,30 @@ export default {
           title: 'Atalhos DataOn Pet',
           dificudade: 2,
           img: 'https://videos.dataon.com.br/imagensprincipal/atalhos.jpg'
+        },
+        {
+          id: 2,
+          context: 'Neste vídeo estaremos mostrando a rotina de para configurar  o envio de e-mails utilizando GMail.',
+          link: 'https://www.youtube.com/embed/Ronh-_-3NbU',
+          title: 'Configuração GMail',
+          dificudade: 2,
+          img: 'https://videos.dataon.com.br/imagensprincipal/ConfigGmail.jpeg'
+        },
+        {
+          id: 3,
+          context: 'Neste vídeo estaremos mostrando a rotina de configuração e utilização da Integração com Whatsapp.',
+          link: 'https://www.youtube.com/embed/T3GKSBcL6Zo',
+          title: 'Integração Whatsapp',
+          dificudade: 2,
+          img: 'https://videos.dataon.com.br/imagensprincipal/WhatsInteg.jpeg'
+        },
+        {
+          id: 4,
+          context: 'Neste vídeo estaremos mostrando o funcionamento e a Validade da Assinatura Eletrônica no Sistema DataOn Pet.',
+          link: 'https://www.youtube.com/embed/2MnXD-Tz5-I',
+          title: 'Assinatura Eletrônica',
+          dificudade: 2,
+          img: 'https://videos.dataon.com.br/imagensprincipal/AssEletronica.jpeg'
         }
       ]
     }
